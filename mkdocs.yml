@@ -1,0 +1,8 @@
+site_name: Pythagorean theorem
+
+pages: 
+  - "index": index.md
+  - "aboyt": aboyt.md
+ 
+
+theme: readthedocs
